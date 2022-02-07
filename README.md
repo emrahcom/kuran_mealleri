@@ -1,1 +1,1 @@
-# kuran_mealleri
+Bu depoda, bazi Turkce Kuran mealleri yer almaktadir.
